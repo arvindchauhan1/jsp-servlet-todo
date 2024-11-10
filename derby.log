@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Nov 10 23:50:05 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0193-174d-f61f-000007283908 
+on database directory C:\Users\rv21\TodoApp with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c647e05 
+Loaded from file:/C:/Users/rv21/eclipse-workspace/todo/src/main/webapp/WEB-INF/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\rv21\eclipse-workspace\todo
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
